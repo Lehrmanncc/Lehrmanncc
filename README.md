@@ -1,5 +1,5 @@
 ## Hi, there! 
-### I'm Lehrmann 👋 ![](https://visitor-badge.glitch.me/badge?page_id=Lehrmanncc.readme)
+### I'm Lehrmann 👋  ![](https://visitor-badge.glitch.me/badge?page_id=Lehrmanncc.readme)
 - A second-year computer student in college. 
 - 🌱 Currently studying in Xi'an, China
 - 💬 You can contact me by [mail](Lehrmannycli@gmail.com).
